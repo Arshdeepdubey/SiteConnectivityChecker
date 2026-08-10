@@ -1,3 +1,5 @@
-pathlib
-sys
-argparse
+# Runtime dependencies
+# No third-party packages are required for normal CLI usage.
+
+# Development and test dependencies
+pytest>=8.0
